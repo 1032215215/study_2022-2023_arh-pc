@@ -1,1 +1,7 @@
 
+rm package.json
+echo arch-pc > COURSE
+mke
+git add .
+git commit -am 'feat(main) :make course structure'
+git push
